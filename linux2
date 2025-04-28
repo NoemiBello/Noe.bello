@@ -1,2 +1,5 @@
 "Hola GitHub" 
-
+<pre>Command &apos;remove&apos; not found, did you mean:
+  command &apos;remote&apos; from snap remote (1.09)
+See &apos;snap info &lt;snapname&gt;&apos; for additional versions.
+</pre>
